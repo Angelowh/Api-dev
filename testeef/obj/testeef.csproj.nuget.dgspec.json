@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Documentos\\C#\\testeef\\testeef.csproj": {}
+    "D:\\Documentos\\C#\\Api-dev\\testeef-solution\\testeef\\testeef.csproj": {}
   },
   "projects": {
-    "D:\\Documentos\\C#\\testeef\\testeef.csproj": {
+    "D:\\Documentos\\C#\\Api-dev\\testeef-solution\\testeef\\testeef.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documentos\\C#\\testeef\\testeef.csproj",
+        "projectUniqueName": "D:\\Documentos\\C#\\Api-dev\\testeef-solution\\testeef\\testeef.csproj",
         "projectName": "testeef",
-        "projectPath": "D:\\Documentos\\C#\\testeef\\testeef.csproj",
+        "projectPath": "D:\\Documentos\\C#\\Api-dev\\testeef-solution\\testeef\\testeef.csproj",
         "packagesPath": "C:\\Users\\Pedro\\.nuget\\packages\\",
-        "outputPath": "D:\\Documentos\\C#\\testeef\\obj\\",
+        "outputPath": "D:\\Documentos\\C#\\Api-dev\\testeef-solution\\testeef\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
